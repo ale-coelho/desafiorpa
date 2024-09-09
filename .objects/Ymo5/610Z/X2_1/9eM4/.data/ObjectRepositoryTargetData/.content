@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="biwMeIQPo02v02LnruFITw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://docs.google.com/forms/d/e/1FAIpQLSe7m3nyPK-dXKpNO8Uq_Xmh1YjRw5yQSE5FzZ5Ksk4wxWD_3w/viewform" CVScreenId="40578f5c-8ce3-443c-a75e-bcb0c898c0d6" DesignTimeRectangle="417, 519, 266, 21" DesignTimeScaleFactor="0.8999999761581421" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='whsOnd zHQkBf' aaname='' /&gt;" Guid="3512d2c4-83df-4e88-b950-9b3ad211dce1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DesafioRPA' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="40578f5c-8ce3-443c-a75e-bcb0c898c0d6" CvTextArea="416, 473, 40, 13" CvTextArgument="Nome" CvType="Text" DesignTimeRectangle="417, 471, 39, 18" FuzzySelectorArgument="&lt;webctrl isleaf='1' parentid='i1' tag='FONT' type='' class='' aaname='Nome' check:innerText='Nome' /&gt;" Guid="ddb67806-6cee-448a-b321-0a415800004b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1740a52a043e161a3282dabe128d5eec.png" xmlns="">0bHEHMQo1CU6RxSS1BC_3-w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome DesafioRPA",
+  "Type": "Screen",
+  "Id": "X2_1yYi1l0m8nq-Q-pQCQQ",
+  "Reference": "Qs31iuEK7ECkJdqhuco9xQ/X2_1yYi1l0m8nq-Q-pQCQQ",
+  "ParentRef": "Qs31iuEK7ECkJdqhuco9xQ/610ZRe6b8UCv86xubU-VeA",
+  "Created": "2024-09-06T20:21:51.6828955Z",
+  "Updated": "2024-09-06T20:21:51.6828955Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
